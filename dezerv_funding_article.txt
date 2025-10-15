@@ -1,0 +1,127 @@
+"
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/publive-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/publive-network/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+"
+
+
+
+		
+    
+
+    
+        
+  
+      const ga4MeasurementId = 'G-5N1SG0CWVQ';
+      window.dataLayer = window.dataLayer || [];
+
+      
+        window.dataLayer.push({
+          page_type: "ArticlePage",
+          site_name:"Indian Startup News",
+          post_type: "Article",
+          post_title: "Wealth-management platform Dezerv raises Rs 350 crore led by Premji Invest and Accel’s Global Growth Fund",
+          post_id: "10000861",
+          
+          contributor_1: "ISN Team",
+          
+          
+          created_by:"Vivek Vishwakarma",
+          published_datetime: "2025-10-13T17:21:17.671+05:30",
+          modified_datetime: "2025-10-13T17:21:17.671+05:30",
+          primary_category_slug: "funding",
+          primary_category_id: "3196",
+          post_url: "https://indianstartupnews.com/funding/wealth-management-platform-dezerv-raises-rs-350-crore-led-by-premji-invest-and-accels-global-growth-fund-10557796",
+          
+            paywall: false,
+          
+        });
+      
+      function gtag() {
+          window.dataLayer.push(arguments);
+      }
+      const dataLayerAttributes = window.dataLayer[0] || {};
+      gtag('js', new Date());
+      gtag('config', ga4MeasurementId,dataLayerAttributes);
+      
+        document.addEventListener('DOMContentLoaded', function() {
+            const playButton = document.querySelector('#playbtn');
+    
+            if (playButton) {
+                playButton.addEventListener('click', function() {
+                    gtag('event', 'readAudioPlay', {
+                        'event_category': 'Audio',
+                        'event_label': 'readAudioPlay',
+                        'event_value': 1 
+                    });
+                });
+            }
+        });
+
+0
+
+By clicking the button, I accept the Terms of Use of the service and its Privacy Policy, as well as consent to the processing of personal data.
+
+Don’t have an account? Signup
+
+Follow Us
+
+Dezerv co-founders
+
+Wealth management platform Dezerv has raised Rs 350 crore in a funding round co-led by Premji Invest and Accel’s Global Growth Fund, with participation from Elevation Capital and Z47 (formerly Matrix Partners India).
+
+The fresh capital takes the startup's total funding to more than Rs 850 crore since its launch in 2021.
+
+The Mumbai-based startup plans to deploy the proceeds to enhance its technology stack, broaden its investment solutions across asset classes, and hire relationship managers over the next year. It also launched a Rs 46 crore ESOP buyback earlier this year to reward employees.
+
+Dezerv currently manages over Rs 14,000 crore in assets under management (AUM) across portfolio management services (PMS), alternative investment funds (AIFs), and distribution assets. Its investment-tracking app, covering mutual funds, stocks, bank accounts, NPS, and fixed deposits, has more than five lakh users tracking Rs 2 lakh crore in assets.
+
+Founded by Sandeep Jethwani, Sahil Contractor, and Vaibhav Porwal, all former IIFL Wealth executives, Dezerv operates across 200 cities through offices in Mumbai, Delhi, Bengaluru, Hyderabad, and Pune.
+
+The startup said it intends to leverage India’s account-aggregator framework to deliver more personalized solutions and extend its One Model platform to include new asset classes such as bonds, REITs, InvITs, and precious metals by year-end.
+
+Notably, it also counts OfBusiness cofounders Ruchi Kalra and Asish Mohapatra, Meesho co-founder Vidit Aatrey, and Acko founder Varun Dua among its backers.
+
+
+
+
+
+
+
+Subscribe to our Newsletter!
+
+
+
+
+
+Share this article
+
+If you liked this article share it with your friends.they will thank you later

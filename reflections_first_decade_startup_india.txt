@@ -1,0 +1,217 @@
+Author :   				Tanya Aggarwal
+
+This brief examines the transformative impact of India's ‘Startup India’ initiative, launched in 2016, on the country’s entrepreneurial landscape. Driven by the presence of digital infrastructure and government support, India's startup ecosystem has seen exponential growth in the recent years. Today, the country has some 159,000 startups and a notable number of unicorns, positioning India in third place in the global startup ecosystem. Startup India’s focus on simplified regulations, financial support, and access to resources has fostered innovation. Yet, challenges persist, including bureaucratic hurdles, funding limitations, and skill gaps. This brief recommends strengthening global partnerships, reforming skill development programmes, and promoting regional ecosystems to allow India to solidify its position as a global startup hub and ensure sustainable growth and innovation.
+
+Tanya Aggarwal, “Reflections on the First Decade of ‘Startup India’,” ORF Issue Brief No. 819, July 2025, Observer Research Foundation.
+
+The startup ecosystem in India has seen a remarkable transformation over the past decade, driven by a confluence of factors that have reshaped the entrepreneurial landscape. This surge in entrepreneurial activity, fuelled by innovation, capital inflow, and government support, has propelled India into the global spotlight as one of the fastest-growing startup ecosystems in the world.[1] The launch of the ‘Startup India’ initiative in 2016 by the Department for the Promotion of Industry and Internal Trade (DPIIT) marked a pivotal moment in this transformation, providing a solid foundation for entrepreneurs by offering tax benefits, funding opportunities, and regulatory relief. India’s startup ecosystem has experienced exponential growth in recent years (see Figure 1). As of January 2025, India was home to 159,000 startups, making it the third largest startup ecosystem in the world.[2] In terms of unicorns—privately-held startups valued at US$1 billion or more—India ranks 3rd as well.[3]
+
+Figure 1: DPIIT-Recognised Startups, by Year
+
+
+
+Author’s own, using Ministry of Commerce & Industry data[4]
+
+The United States (US), with its established innovation hubs, continues to lead the world in terms of the total number of startups and unicorns. Home to Silicon Valley, the US is the acknowledged epicentre of global innovation and entrepreneurship.[5] The robust access to venture capital, a highly developed infrastructure, and a deeply ingrained culture of risk-taking have created an environment where startups can scale rapidly. For India, its rapid rise in this space is a testament to the growing vibrancy and potential of its startup ecosystem. This is particularly evident in emerging sectors like fintech, edtech, e-commerce, online gaming, delivery-based services, agritech, and healthtech, with hubs in cities such as Delhi, Mumbai, Hyderabad, and Bengaluru.[6],[7]
+
+The rapid development of the startup ecosystem has also been complemented by the ‘Digital India’ initiative. As of March 2024, the average user’s data consumption reached 20.27GB, a notable increase from 0.27GB in 2014-2015.[8] The country’s Digital Public Infrastructure (DPI), including Aadhaar (the world’s largest biometric identification system) and the Unified Payments Interface (UPI), India’s largest real-time payments system, has provided a digital backbone that startups and other providers of digitally enabled public and private services have leveraged at scale.
+
+The inherent interoperability of UPI has allowed it to work across different banking systems and digital wallets, and to handle increasing transaction volumes. Aadhaar, which provides over 1.3 billion people with a unique digital identity, has simplified processes like KYC (Know Your Customer) for startups.[9] UPI has revolutionised digital payments by enabling instant, secure, and cost-effective transactions, making business operations more efficient. Additionally, the Goods and Services Tax (GST) has simplified the tax structure and reduced the compliance burden for startups, transitioning India from a complex, multi-layered tax system to a unified, transparent one, which has streamlined interstate trade and commerce.
+
+These technology trends have played a vital role in the growth of India’s startup ecosystem. A commonly used metaphor is that of a government-owned public railway track upon which trains—the private businesses in this metaphor—have been allowed to operate, innovate, and offer services. By providing a core underlying layer of infrastructure, i.e., a ready-to-use fast payment service which can be easily integrated with other delivery services due to its use of open APIs and interoperable standards, UPI has allowed startups to focus on value-added services from inception rather than having to build their systems from scratch. This has allowed these startups to innovate rather than having to reinvent systems. These benefits are evident in the fintech sector, where over 40 payment apps compete today, driving up service quality and driving down costs.[10] The digital payments system is the cornerstone of about 80 percent of India’s retail payments, which had a transaction volume exceeding INR131 billion in FY 2023-2024.[11]
+
+Additionally, the Startup India initiative has bolstered the industry’s growth through funding mechanisms like the Fund of Funds (FFS),[a] as well as tax exemptions and eased regulatory compliance.[12] This combination of robust infrastructure and supportive policies has enabled startups to scale efficiently, reach customers in urban and rural areas alike, and fuel innovation, driving their growth and success. This brief takes a closer look at the achievements of the Startup India initiative, the progress made in fostering innovation, and the challenges that continue to face the Indian startup ecosystem.
+
+‘Startup India’ has five criteria for an enterprise to be considered a startup:[13]
+
+At its core, Startup India focuses on building a conducive environment for startups, emphasising innovation, ease of doing business, and economic empowerment. By removing barriers such as bureaucratic red tape and outdated regulations, the initiative seeks to create a landscape where entrepreneurs can experiment, grow, and scale their businesses more comfortably. This is especially crucial in high-growth sectors like biotechnology, artificial intelligence, fintech, clean energy, and healthtech, where innovation plays a pivotal role. The Startup India Action Plan is a comprehensive framework designed to empower entrepreneurs to build and scale innovative businesses. This includes measures such as tax exemptions, access to infrastructure, mentorship, and resources like government-supported incubators and accelerators and a mobile app that helps with networking.[14]
+
+One of the barriers to entrepreneurship in India has been the complexity of regulatory procedures. Startup India addresses this by streamlining the business registration process, reducing compliance requirements, and offering tax exemptions.[15] For example, startups that meet certain criteria, such as being younger than seven years old and demonstrating innovative solutions, can receive a certificate of recognition. This certificate grants access to benefits that include tax holidays and expedited approvals.
+
+Under the initiative, various schemes have been launched to provide comprehensive support to startups at different stages of their journey, addressing areas such as funding, market access, and credit guarantees to ensure their growth and sustainability.[16] The FFS, with a corpus of INR 10,000 crore and managed by SIDBI, aims to enhance access to domestic capital for Indian startups by providing funding to SEBI-registered Alternative Investment Funds (AIFs). These then invest in startups through equity and equity-linked instruments.
+
+Another scheme is the Startup India Seed Fund Scheme (SISFS), with a corpus of INR 8,945 crore, overseen by the Experts Advisory Committee (EAC). It supports startups in areas such as proof of concept, prototype development, product trials, market entry, and commercialisation. The Credit Guarantee Scheme for Startups (CGSS), implemented by the National Credit Guarantee Trustee Company Limited (NCGTC), offers credit guarantees for loans provided to DPIIT-recognised startups by scheduled commercial banks, NBFCs, and venture debt funds. Additionally, startups benefit from a three-year tax holiday, capital gains tax exemptions, and other incentives[b] that ease their financial burden during the early years of growth. These initiatives collectively bolster the entrepreneurial ecosystem, empowering startups to scale, innovate, and thrive.
+
+The investment in developing a network of incubators and accelerators across the country has provided essential infrastructure, mentorship, and networking opportunities that help startups scale and refine their business models. Initiatives like the Startup India Hub provide entrepreneurs with an online platform where they can access resources on funding, registration, intellectual property rights (IPR), and legal frameworks.[17] As of November 2018, the hub has helped more than 116,000 queries and supported 660 startups with advisories on business plans and pitching support.[18] To further reduce bureaucratic hurdles, the Self-Certification Scheme allows startups to self-certify compliance with labour and environmental laws.[19] This scheme minimises the need for external inspections, enabling startups to focus on their core business activities. Additionally, the BHASKAR platform aims to centralise and streamline interactions within India’s entrepreneurial ecosystem.[20] It connects startups, investors, mentors, service providers, and government bodies to foster innovation, collaboration, and growth, while offering features like personalised BHASKAR IDs, centralised resources, and enhanced discoverability. BHASKAR also promotes global outreach and empowers startups from non-metro regions, contributing to inclusive growth across the country.
+
+Encouraging innovation and ensuring that startups can protect their intellectual property (IP) is an important focus area of the Startup India initiative. The initiative includes provisions to expedite patent filings—a step especially valuable for startups in sectors like technology and pharmaceuticals. As of December 2024, over 2,000 patents and 28,000 trademarks have been approved under the Startups Intellectual Property Protection (SIPP) Scheme.[21]
+
+Public procurement represents an important revenue stream for many businesses.[22] Startup India has made it easier for startups to bid for government tenders, providing relaxed norms for procurement. These reforms allow startups to compete on an equal footing with established companies, opening new growth opportunities. As mentioned briefly earlier, startups are also exempt from conditions like prior experience or turnover requirements, as long as they meet the technical and quality specifications.[23]
+
+The Startup India portal[c] has played a pivotal role in connecting entrepreneurs, investors, and stakeholders. It offers resources like market research reports, online courses, and a database of government schemes, making it easier for entrepreneurs to access the support they need.
+
+The impact of Startup India has not only transformed the landscape for startups but also contributed to India’s economy and society.
+
+A key achievement of Startup India is the sheer growth of startups in the country. As of January 2025, 159,000 startups have been recognised under the initiative.[24] This is a massive increase from just 500 startups before the programme’s launch.[25] India is also home to over 100 unicorns in 2024—a leap from 11 in 2016—including household names like OYO, Zomato, and Swiggy.[26] Startups in India are emerging across various sectors, with notable trends in fintech, edtech, agritech, healthtech, and deep tech. In terms of investment, fintech continues to lead, securing US$3.2 billion across 193 deals, demonstrating the importance of consistency in the sector. Quick commerce has emerged as a strong contender, attracting US$1.3 billion, although it trails behind fintech. Healthtech secured US$857 million in investments, ranking third. In contrast to the global surge in artificial intelligence investments, the AI sector in India garnered only US$220 million across 51 deals, suggesting an opportunity for innovative founders.[27]
+
+The success of Startup India has inspired mission-driven initiatives by the government. Programmes like the Atal Innovation Mission (AIM) and AI India Startup Mission focus on fostering innovation and entrepreneurship in sectors like AI and deep-tech.[28] AIM has established over 10,000 Atal Tinkering Labs (ATLs) across India, engaging 75 lakh students. Additionally, 59 Atal Incubation Centres have created 32,000 jobs and supported over 2,900 startups.[29] The AI India Startup Mission accelerates AI-driven startups through funding, infrastructure, and R&D support, significantly advancing innovation and technology in India.
+
+Startups create jobs, not only generating tech roles but also providing opportunities in manufacturing, logistics, and creative services, thus contributing to the diversification of the economy. Between the launch of the initiative and October 2024, DPIIT-recognised startups have created over 1.66 million direct jobs across various sectors. The IT Services industry leads with 204,000 jobs, followed by Healthcare & Lifesciences with 147,000 jobs, and Professional & Commercial Services with approximately 94,000 jobs. These contributions emphasise the role of startups in fostering economic growth and creating a wide range of employment opportunities across industries.[30]
+
+Startup India has played a crucial role in attracting foreign investment into the Indian startup ecosystem. India’s Venture Capital (VC) market secured investments totalling US$13.7 billion in 2024, a remarkable increase from US$4 billion in 2016.[31],[32] This growth has elevated India’s position to the second-largest VC destination in the Asia-Pacific region. In the same period, US$850 million was invested in deep-tech ventures, with dominant technologies including Artificial Intelligence, IoT, Big Data, Blockchain, and AR/VR. The rise of these startups in AI, biotechnology, quantum computing, and space technology has positioned India as a leading player in the global innovation ecosystem.[33]
+
+Indeed, the Startup India initiative has catalysed the growth of the country’s startup ecosystem, contributing to job creation, economic diversification, and technological innovation. The implementation of mission-driven initiatives, regulatory reforms, and digital infrastructure has enabled startups to scale across various sectors, and the combined efforts of the government, private sector, and entrepreneurs continue to strengthen India’s position as a leading destination for innovation and investment. However, challenges remain.
+
+Despite Startup India’s relative success, challenges persist, hindering the growth and scalability of startups. These also limit the ability of startups to expand effectively, reach broader markets, and achieve long-term success. The government, despite its efforts to enact policies that will reduce these challenges, faces difficulties in implementation. With most agencies operating in silos, this leads delays and duplication occur often. The impact can be seen across all startup sectors. As of October 2024, over 5,000–or 3.3 percent–of startups recognised by the DPIIT have dissolved.[34]
+
+While Startup India has catalysed a new wave of entrepreneurship nationwide, its implementation has not been without shortcomings. In its early years, one of the challenges was the underutilisation of the SIDBI-managed FFS. Designed to infuse capital into venture funds for onward investment into startups, the FFS suffered from delayed disbursements as well as a complex model that made it difficult for startups to access capital directly. By March 2022, only INR 2,492.24 crore  had been disbursed, revealing delays and complexities in the fund-of-funds model.[35] Although the scheme has matured—supporting over 120 Alternative Investment Funds (AIFs) and benefiting more than 12,000 startups by 2024[36]—these improvements came only after extensive stakeholder feedback and operational restructuring.
+
+Similarly, the Startup India Hub, launched as a single-window platform to streamline startup interactions with government schemes, struggled with slow response times and low penetration in Tier 2 and 3 cities due to limited regional outreach and inadequate user experience. Another policy hurdle was the imposition of the ‘angel tax’ under Section 56(2)(viib) of the Income Tax Act, which discouraged domestic angel investments[d] in early-stage startups until regulatory relief was introduced in 2023.[37] These examples highlight that while the vision behind Startup India was ambitious, initial design and execution gaps diluted its early impact. Addressing such issues requires a continuous feedback loop involving founders, investors, and policymakers to adapt the initiative in real time. Ensuring consistent implementation across states and simplifying fund access mechanisms will be critical to enhancing the initiative’s long-term effectiveness.
+
+Despite efforts to simplify regulations, startups in India continue to face bureaucratic challenges. Before its discontinuation, the World Bank’s Doing Business 2020 report ranked India at 63, reflecting difficulties in obtaining permits, registering property, and dealing with tax regulations.[38],[39] The terms for startups to qualify for government benefits are stringent, with a cumbersome application process. Furthermore, once revenues exceed INR 1 billion, startups become ineligible for these benefits.[40]
+
+While initiatives like self-certification have been introduced, the fragmented nature of India’s regulatory system, with varying rules across states, leads to delays and inefficiencies, particularly when scaling operations. Entrepreneurs often struggle with extensive paperwork and approvals from multiple agencies, which can take months, impeding innovation and quick market entry. This has prompted a third of entrepreneurs to consider relocating their businesses abroad to ease the compliance and tax burdens they face in India.[41]
+
+While Startup India has made strides in providing funding through initiatives like the FFS, access to capital remains a critical barrier, particularly for early-stage entrepreneurs. This issue is even more pronounced in Tier 2 and Tier 3 cities, where investor interest is limited. Startups in India often face distorted revenue projections due to market inconsistencies, with venture capitalists struggling to achieve high returns.[42] The year 2023 saw startups, particularly in the tech sector, hit a five-year low in funding, across all late-stage, early-stage, and seed-stage funding rounds, with a maximum decline in late-stage funding.[43] Furthermore, financing remains difficult due to high domestic lending rates, which are three times higher than those in developed economies, encouraging foreign funds to offer cheaper loans.[44] The complex process of securing government-backed loans or grants adds to the burden. Without adequate funding, startups struggle to scale, attract talent, and invest in R&D, limiting their ability to compete on a global scale. However, in 2024, funding for startups increased by 14 percent year-on-year, reaching £10.9 billion by December.[45] While FFS and incubator support exist, early-stage startups still rely heavily on private capital, and most VCs are risk-averse, especially outside the metro cities.
+
+India’s startup ecosystem thrives on innovation, but a critical shortage of skilled talent remains one of the country’s most pressing challenges, particularly in emerging fields such as artificial intelligence (AI), machine learning (ML), blockchain, and data analytics.[46] With 70 percent of India's engineering graduates considered 'unemployable,' emerging industries such as deep-tech and deep-science startups, which are technology-driven, are hindered by a shortage of specialised talent.[47] This forces startups to invest heavily in training their employees, increasing operational costs, and slowing down growth.[48] Moreover, attracting skilled workers to smaller cities, where many startups are based, is challenging due to limited infrastructure, fewer career advancement opportunities, and a smaller talent pool. Efforts to bridge the skill gaps in India continue through government initiatives, as well as private sector involvement. Most skill development schemes remain geared toward low-skill employment, not advanced tech competencies needed for startups. Additionally, a lack of mentorship for entrepreneurs is also seen as a critical issue for many startups. At the launch of the LeapAhead Start-up summit in 2023, experts and industry leaders attributed the lack of mentors as a major cause of startup failure.[49]
+
+According to the Economic Survey 2022-2023, approximately 65 percent of India’s population reside in rural areas, yet startups in these regions struggle with accessing the vast consumer base due to inadequate infrastructure.[50] Even though India’s big cities like Bengaluru, Delhi, and Mumbai are well-connected and have developed digital ecosystems, startups in smaller cities face logistical challenges. The Logistics Performance Index (LPI) 2023 ranks India 38th globally, which highlights the issues with transport infrastructure, inefficient supply chains, and unreliable customs procedures.[51] These infrastructure bottlenecks increase the cost of doing business, especially for startups that need to deliver products to far-flung areas or reach rural consumers.
+
+To unlock the full potential of India’s startup ecosystem, a continued focus on these challenges faced by startups is required.
+
+1. Strengthen Innovation Tech Bridges through Global Partnerships
+
+India should create tech innovation bridges that connect domestic startups with international partners, particularly from leading tech hubs like Silicon Valley in the United States and Shenzhen in China. These partnerships can facilitate knowledge exchange, provide access to global markets, and create opportunities for collaborative R&D. This can be achieved by fostering government-to-business collaborations, establishing international incubators and accelerators, and facilitating global investor access. A great example of this approach can be seen in Singapore’s efforts to create an innovation-friendly environment by building strong ties with global tech players.[52] By mirroring such strategies, India’s startups can enhance their technical capabilities and improve their global competitiveness.
+
+2. Reform and Strengthen Skill Development with Industry-Driven Training
+
+Instead of merely revising educational curricula, India needs to invest heavily in practical, industry-driven training initiatives, particularly in emerging fields like AI, blockchain, and data science. This can be accomplished by increasing collaboration between educational institutions, industry leaders, and government agencies. One effective model is Germany’s dual education system, which integrates apprenticeships with classroom learning, giving students hands-on experience in the workplace.[53] By adopting such models, India can ensure that graduates are industry-ready, equipped with the skills needed by startups and high-tech companies. This approach will reduce the skill gap and create a workforce that can meet the evolving needs of India’s innovation ecosystem.
+
+3. Promote and Develop Regional Ecosystems in Tier 2 & Tier 3 Cities
+
+To foster entrepreneurial growth outside India’s metropolitan hubs, the government should focus on building sustainable regional ecosystems in Tier 2 and Tier 3 cities. Smaller cities are becoming increasingly important, with over 51 percent of startups emerging from them.[54] This can be achieved by investing in digital infrastructure, creating innovation hubs, and offering targeted financial incentives for startups. For example, South Korea’s Creative Economy Innovation Centers have successfully supported local startups outside Seoul by promoting sector-specific clusters and reducing migration to metropolitan areas.[55] India can adopt a similar approach, establishing localised support systems like incubators, accelerators, and co-working spaces tailored to the unique needs of smaller cities. Additionally, setting up regional technology parks or business hubs will equip startups with the resources needed to thrive. It is crucial that these ecosystems are designed to reflect local needs and industry strengths, with local stakeholders—including universities, government bodies, and private sector players—collaborating to create region-specific solutions.
+
+4. Introduce a Review Framework to Include Periodic Evaluations
+
+These evaluations should focus on assessing the effectiveness of various sectors, particularly the balance between consumer-focused ventures and more crucial Deep Tech innovations such as electric mobility and artificial intelligence, as suggested by Commerce and Industry Minister Piyush Goyal during the Startup Mahakumbh 2025. In line with his concern about the underrepresentation of Deep Tech ventures, a specific assessment should be dedicated to monitoring their development, identifying challenges, and implementing solutions to foster their growth.[56]
+
+Additionally, the review framework should include an analysis of the origins of investments, with a particular focus on encouraging greater participation from Indian investors. By diversifying the investor base and attracting more local capital, India can create a more sustainable and self-reliant startup ecosystem. The evaluation process should also engage key stakeholders: government bodies, industry leaders, investors, and startup representatives to ensure a comprehensive understanding of the initiative’s impact on national objectives.
+
+The Startup India initiative has sparked a transformative era for the country’s entrepreneurial ecosystem, positioning India as a global player. With a surge in startups, including a growing number of unicorns, and strengthened by robust digital infrastructure and strategic government support, India is now a key force in sectors like fintech, edtech, and healthtech. However, despite these accomplishments, challenges such as regulatory hurdles, funding limitations, a skills gap, and infrastructural deficits threaten to hinder future progress.
+
+To build on the momentum of the past decade, India must tackle the obstacles by forging global partnerships, revolutionising skill development through industry-aligned training, and cultivating vibrant regional ecosystems in Tier 2 and 3 cities. With continued government support, a focus on innovation, and a commitment to addressing these challenges, India can solidify its current standing and ascend to the forefront of global innovation.
+
+[a] FFS does not invest directly in startups but provides capital to SEBI-registered Alternative Investment Funds (AIFs), which in turn invest in startups. It strengthens the startup ecosystem by leveraging professional fund management and reducing dependency on traditional finance channels.
+
+[b] Other incentives include fast-track patent examination and up to 80% rebate on patent filing fees, 50% rebate on trademark filing, and self-certification under select labour and environmental laws. They are also exempt from prior experience or turnover requirements in government tenders, enabling fairer access to public procurement. Furthermore, a fast-track exit mechanism under the Insolvency and Bankruptcy Code supports quicker resolution. Collectively, these measures create a supportive environment for startups to innovate and grow efficiently.
+
+[c] https://www.startupindia.gov.in/
+
+[d] Early-stage funding provided by high-net-worth individuals within the same country as the startup. These investors offer capital, mentorship, and industry connections in exchange for equity.
+
+[1] “Startup India Propelled Country to Become One of the Most Vibrant Startup Ecosystems: PM Modi,” The Economic Times, January 16, 2025, https://economictimes.indiatimes.com/news/india/startup-india-propelled-country-to-become-one-of-the-most-vibrant-startup-ecosystems-pm-modi/articleshow/117290106.cms?from=mdr
+
+[2] Ministry of Commerce & Industry, Government of India, https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2093125
+
+[3] “Unicorns in India: List of Startup Companies with Unicorn Status in 2024,” Forbes India, August 22, 2024, https://www.forbesindia.com/article/explainers/unicorns-india-list/85309/1
+
+[4] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=1881495; Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2002100; Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098452#
+
+[5] Kenji Kishida, “The Silicon Valley Model and Technological Trajectories in Context,” Carnegie Endowment for International Peace, January 9, 2024, https://carnegieendowment.org/research/2024/01/the-silicon-valley-model-and-technological-trajectories-in-context?lang=en
+
+[6] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=153602&ModuleId=3
+
+[7] Ekta Kashyap, “These Industries Have the Most Successful Start-ups in India,” Runaway Incubator, April 8, 2022, https://www.runwayincubator.com/these-industries-have-the-most-successful-start-ups-in-india
+
+[8] Kuldeep Singla, “India’s Internet Usage: Analyzing Change in the Telecom Landscape,” Invest India, August 20, 2024, https://www.investindia.gov.in/blogs/indias-internet-surge-catalyzing-change-telecom-landscape
+
+[9] Ministry of Electronics & IT, Government of India, https://pib.gov.in/PressReleasePage.aspx?PRID=2067940
+
+[10] Cristian Alonso et al., Stacking up the Benefits: Lessons from India’s Digital Journey, March 2023, International Monetary Fund, 2023, https://www.imf.org/en/Publications/WP/Issues/2023/03/31/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-531692
+
+[11] Ministry of Finance, Government of India,  https://pib.gov.in/PressReleseDetailm.aspx?PRID=2106794&reg=3&lang=1
+
+[12] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098452#:~:text=Launched%20in%20June%202016%20with,equity%20and%20equity%2Dlinked%20instruments.
+
+[13] Startup India, “Startup India Scheme,” Department for Promotion of Industry and Internal Trade,  https://www.startupindia.gov.in/content/sih/en/startup-scheme.html
+
+[14] Startup India, “Startup India Action Plan,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/content/sih/en/about_us/action-plan.html
+
+[15] Startup India, “Startup India Scheme,” Department for Promotion of Industry and Internal Trade,
+
+[16] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093125
+
+[17] Startup India, “About the Startup India Portal,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/content/sih/en/about_startup_portal.html
+
+[18] Department for Promotion of Industry and Internal Trade, #StartupIndia The Status Report (Ministry of Commerce & Industry, 2018), https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Status_report_on_Startup_India.pdf
+
+[19] Startup India, “Self-Certification Scheme,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/content/sih/en/startupgov/self-certification.html
+
+[20] Startup India, “Bharat Startup Knowledge Access Registry,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/bhaskar
+
+[21] Startup India, “Intellectual Property Rights (IPR) for Startups,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/content/sih/en/intellectual-property-rights.html
+
+[22] Startup India, “Public Procurement for Startups,” Department for Promotion of Industry and Internal Trade, https://www.startupindia.gov.in/content/sih/en/public_procurement.html
+
+[23] Ministry of Heavy Industries & Public Enterprises, Relaxation of Norms for Startups Medium Enterprises in Public Procurement Regarding Prior Experience-Prior Turnover criteria-reg, (New Delhi: Ministry of Heavy Industries, 2016), https://dpe.gov.in/sites/default/files/relaxsation_of_norms.pdf
+
+[24] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093125
+
+[25] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093125
+
+[26] “Unicorns in India up by 10 Times in 9 Years,” The Hindu BusinessLine, January 15, 2025, https://www.thehindubusinessline.com/info-tech/unicorns-in-india-up-by-10-times-in-9-years/article69100333.ece
+
+[27] YourStory Research, Annual Funding Report 2024, YourStory Media, https://yourstory.com/cs/uploads/YourStoryAnnualFundingReport2024-1736876901855.pdf
+
+[28] “About AIM,” Atal Innovation Mission, https://aim.gov.in/
+
+[29] Cabinet, Government of India, https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2012355
+
+[30] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093125
+
+[31] Ritu Singh, “India’s Startup Investment Jumps to $13.7 Billion, Fuelled by IPO Boom: Bain & Co-IVCA Report,” CNBC TV18, March 11, 2025, https://www.cnbctv18.com/business/startup/india-startup-investment-rebounds-fuelled-by-ipo-boom-ai-consumer-tech-bain-ivca-report-19571148.htm
+
+[32] Emmanuel Amberber, “In 2016, $4 Billion Invested in Indian Startups - Deal Value Decreased 55%, Volume Increased by 3% from 2015,” YourStory, January 1, 2017 https://yourstory.com/2016/12/indian-startups-funding-report
+
+[33] KPMG, Exploring India's Dynamic Start-up Ecosystem, December 2024, 2024, https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2024/12/exploring-indias-dynamic-start-up-ecosystem.pdf
+
+[34] Sandeep Soni, “5,000 Startups Registered under Startup India Closed So Far: Govt Data,” Financial Express, December 10, 2024, https://www.financialexpress.com/business/sme-5000-startups-registered-under-startup-india-closed-so-far-govt-data-3688692/
+
+[35] Small Industries Development Bank of India, Fund of Funds- Annual Report 2021-22, July 2022, New Delhi, 2022, https://www.sidbi.in/annualreport/AnnualReport202122/fund-of-funds.php?utm_source=chatgpt.com
+
+[36] “Who’s Getting the Money? A Look at Indian AIFs Benefitting from Funds of Funds 2.0,” TICE TV, April 25, 2025, https://www.tice.news/know-this/whos-getting-the-money-a-look-at-indian-aifs-benefitting-from-funds-of-funds-20-9000631
+
+[37] Ashwin Manikandan and Haripriya Suresh, “India Scraps 'Angel Tax'; Startup Investors Rejoice,” Reuters, July 23, 2024, https://www.reuters.com/world/india/india-budget-india-scraps-angel-tax-startup-investors-rejoice-2024-07-23/?utm_source=chatgpt.com
+
+[38] Ministry of Commerce & Industry, Government of India, https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2003540
+
+[39]“Exploring India's Dynamic Start-up Ecosystem, December 2024”
+
+[40] Dharish David, Sasidaran Gopalan, and Suma Ramachandran, The Startup Environment and Funding Activity in India, Asian Development Bank Institute, 2020, https://www.adb.org/sites/default/files/publication/612516/adbi-wp1145.pdf
+
+[41] “The Startup Environment and Funding Activity in India”
+
+[42] “The Startup Environment and Funding Activity in India”
+
+[43] Dhiraj Sharma, “Navigating the Maze: Indian Tech Start-up Ecosystem in 2024,” Nasscom, January 8, 2024, https://community.nasscom.in/communities/productstartups/navigating-maze-indian-tech-start-ecosystem-2024
+
+[44] “The Startup Environment and Funding Activity in India”
+
+[45] Rimjhim Singh, “Indian Startups to Boost Hiring by 20-30% in 2025 as Funding Improves,” The Business Standard, December 19, 2025, https://www.business-standard.com/industry/news/indian-startups-hiring-2025-funding-improves-trends-124121800614_1.html
+
+[46] Sanjaya Mariwala, “Bridging the Gap in India’s Workforce Skill Deficit,” The Economic Times, January 26, 2025, https://hr.economictimes.indiatimes.com/news/industry/bridging-the-gap-in-indias-workforce-skill-deficit/117575510
+
+[47]“The Startup Environment and Funding Activity in India”
+
+[48] Anumeha Chaturvedi, “Companies Investing Heavily on the Training of Top Leadership, Hike Budget by 87%,” The Economic Times, September 17, 2013, https://economictimes.indiatimes.com/news/company/corporate-trends/companies-investing-heavily-on-the-training-of-top-leadership-hike-budget-by-87/articleshow/22639134.cms?from=mdr
+
+[49] Barinderjit Saluja, “95% Start-ups Fail Due to Lack of Mentors,” Times of India, December 14, 2023, https://timesofindia.indiatimes.com/city/chandigarh/95-start-ups-fail-due-to-lack-of-mentors/articleshow/105974157.cms
+
+[50] Ministry of Finance, Government of India, https://pib.gov.in/PressReleasePage.aspx?PRID=1894901
+
+[51] Ministry of Commerce & Industry, Government of India, https://pib.gov.in/PressReleasePage.aspx?PRID=2003541
+
+[52] “How Singapore Has Become a Leading Force in Tech Innovation,” Economic Development Board Singapore, November 3, 2023, https://www.edb.gov.sg/en/business-insights/insights/how-singapore-has-become-a-leading-force-in-tech-innovation.html
+
+[53]Max Mueller Bhavan India, “Dual Vocational Training in Germany,” Goethe-Institut, https://www.goethe.de/ins/in/en/spr/led/dbd.html
+
+[54] Ministry of Commerce & Industry, Government of India, https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098452#:~:text=India%20has%20firmly%20established%20itself,from%20Tier%20II/%20III%20cities.
+
+[55] “Sejong City in South Korea Emerges as a Hub for Innovation,” Local Action, January 6, 2025 https://sdglocalaction.org/sejong-innovation-centre/
+
+[56] Business Today, “Piyush Goyal’s Bold Message to ‘Shark Tanks’ | Food Delivery vs Deep Tech,” YouTube Video, 8:01 mins, April 3, 2025, https://www.youtube.com/watch?v=ghJJzqiXrZs
+
+Tanya Aggarwal was a Research Assistant at the Center for Security, Strategy, and Technology at ORF.   ...
+
+ORF © 2025Website Design and Development by Sterco Digitex
